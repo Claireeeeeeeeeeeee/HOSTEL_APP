@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977079861138",
+    "project_id": "hostelmanagementsystem-c8aec",
+    "storage_bucket": "hostelmanagementsystem-c8aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977079861138:android:c0ee18a185f201d6c60b4b",
+        "android_client_info": {
+          "package_name": "com.claire.hostelmanagementsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSy1JZf6iDmB4hoEqgrjp9uTwh_pcLecE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
